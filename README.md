@@ -13,7 +13,7 @@
   <samp> A Software Engineering student, Biochemistry & Physiology graduate, who has a passion in both information technology and biology. I am willing to learn every skill in tech as possible in order for me to incorporate these skills in biology and also use them to solve real-life problems
   </samp>
   <br> <br>
-  <img src="![Profile Views](https://komarev.com/ghpvc/?username=mojalefakdoisang&label=Profile+Views)" />
+  <img src = "https://komarev.com/ghpvc/?username=mojalefakdoisang&label=Profile+Views" />
 </p>
 
 <hr>
