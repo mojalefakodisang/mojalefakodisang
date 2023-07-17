@@ -28,7 +28,7 @@
 <p align="center">
   <a target="_blank"href="https://alx-students.slack.com/team/U055WRHFWAG"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/javasbeats_SA"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.yahoo.com/mojalefakodisang"><img src="https://img.shields.io/badge/Yahoo-8B89CC?style=for-the-badge&logo=yahoo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mojalefakodisang@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-8B89CC?style=for-the-badge&logo=yahoo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
