@@ -17,7 +17,7 @@
 <hr>
 <h2 align="center">Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojalefakodisang&theme=blue-green" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=mojalefakodisang&theme=blue-green" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Skills</h2>
