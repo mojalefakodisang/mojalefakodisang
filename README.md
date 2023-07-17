@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">Adobe Illustrator, C programming</p>
 
 <h2 align="center">IDEs</h2>
 <p align="center">
