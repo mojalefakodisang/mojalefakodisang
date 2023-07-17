@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mojalefakodisang&theme=blue-green" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">IDEs</h2>
+<h2 align="center">IDEs</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />&nbsp;&nbsp;&nbsp;
