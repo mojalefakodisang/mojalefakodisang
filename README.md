@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src=""/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -20,9 +20,10 @@
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">C programming</p>
+<p align="center">Adobe Illustrator, C programming</p>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
