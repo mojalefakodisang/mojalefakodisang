@@ -21,12 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mojalefakodisang&theme=blue-green" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
 <h2 align="center">IDEs</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />&nbsp;&nbsp;&nbsp;
