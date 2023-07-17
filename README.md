@@ -12,11 +12,13 @@
 <p align="center">
   <samp> A Software Engineering student, Biochemistry & Physiology graduate, who has a passion in both information technology and biology. I am willing to learn every skill in tech as possible in order for me to incorporate these skills in biology and also use them to solve real-life problems
   </samp>
-  <br> <br>
-  <img src = "https://komarev.com/ghpvc/?username=mojalefakdoisang&label=Profile+Views" />
 </p>
 
 <hr>
+<h2 align="center">Statistics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojalefakodisang&theme=blue-green" />&nbsp;&nbsp;&nbsp;
+</p>
 
 <h2 align="center">Skills</h2>
 <p align="center">
