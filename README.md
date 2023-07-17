@@ -25,6 +25,13 @@
 </p>
 <p align="center">Adobe Illustrator, C programming</p>
 
+<h2 align="center">IDEs</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
 <h2  align="center">Social</h2>
 <p align="center">
   <a target="_blank"href="https://alx-students.slack.com/team/U055WRHFWAG"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
