@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="<img src="https://github.com/mojalefakodisang/mojalefakodisang/images/javas.gif" alt="javas logo" style="max-width: 100%; height: auto;">
+  <img src="<img src="https://github.com/mojalefakodisang/mojalefakodisang/images/javas.gif" alt="javas logo" style="max-width: 100%; height: auto;"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
