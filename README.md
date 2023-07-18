@@ -1,10 +1,10 @@
 <!--
 **mojalefakodisang/mojalefakodisang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+-->
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="<img src="https://github.com/mojalefakodisang/mojalefakodisang/images/javas.gif" alt="javas logo" style="max-width: 100%; height: auto;"/>
+  <img src="https://github.com/mojalefakodisang/mojalefakodisang/blob/main/images/javas.gif" alt="javas logo" style="max-width: 100%; height: auto;"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -35,8 +35,8 @@
 
 <h2  align="center">Social</h2>
 <p align="center">
-  <a target="_blank"href="https://alx-students.slack.com/team/U055WRHFWAG"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/javasbeats_SA"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://alx-students.slack.com/team/U055WRHFWAG"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/javasbeats_SA"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mojalefakodisang@yahoo.com"><img src="https://img.shields.io/badge/Yahoo-8B89CC?style=for-the-badge&logo=yahoo&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
