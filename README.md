@@ -14,6 +14,10 @@
   </samp>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mojalefakodisang" />&nbsp;&nbsp;&nbsp;
+</p>
+
 <hr>
 <h2 align="center">Skills</h2>
 <p align="center">
