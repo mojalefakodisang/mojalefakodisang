@@ -23,10 +23,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BASH-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=Python&logoColor=none" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BASH-00599C?style=for-the-badge&logo=bash&logoColor=none" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=HTML&logoColor=none" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=CSS&logoColor=none" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">IDEs</h2> 
