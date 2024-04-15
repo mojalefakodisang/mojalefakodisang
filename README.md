@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=bash&logoColor=none" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=HTML&logoColor=none" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-00009C?style=for-the-badge&logo=CSS&logoColor=none" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20logo-grey?style=for-the-badge&logo=javascript" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20grey?style=for-the-badge&logo=javascript" /> &nbsp;&nbsp;&nbsp;
   
 </p>
 <h2 align="center">IDEs</h2> 
