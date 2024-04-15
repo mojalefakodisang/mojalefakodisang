@@ -52,7 +52,7 @@
 <hr>
 
 <p align="center">
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6615a2e2342426a4c8fef4e8?variant=dark)](https://roadmap.sh)
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6615a2e2342426a4c8fef4e8?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
